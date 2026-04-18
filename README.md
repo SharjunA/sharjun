@@ -19,10 +19,10 @@ Tools: Flutter, Git, GitHub
 
 ## 🚀 Featured Projects
 
-### SplitIt – FinTech Expense Management App
-Mobile app for group expense tracking and payment management.
+### Stock Portfolio Tracker
+A Python-based application for tracking stock portfolios and analyzing investment performance.
 
-Tech Stack: Flutter • Node.js • MongoDB
+Tech Stack: Python • yfinanxe • openpyxl
 
 ### Foodie Fantasy – Recipe App
 Mobile application for discovering and exploring recipes.
@@ -36,9 +36,6 @@ Tech Stack: Flutter • Dart
 • Runner-Up – App Development Contest (SSN College)  
 • Winner – UI/UX Design Competition
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
 
 ## 🤝 Connect With Me
 
